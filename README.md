@@ -1,2 +1,15 @@
-# python-learning
-Python Learning Journey 🚀 This repository documents my journey of learning Python, covering core concepts such as variables, loops, functions, OOP, file handling, and basic data structures. It also includes small projects and coding practice exercises to strengthen my programming fundamentals.
+ # Python Learning Journey 🚀
+
+Hi, I am Aasim.
+
+I am currently learning Python and improving my problem-solving skills.  
+This repository contains:
+
+- Basic Python programs
+- Loops and condition practice
+- Functions and OOP concepts
+- File handling
+- Beginner Data Structures
+- Mini projects
+
+My goal is to become a strong backend developer and data science engineer.
